@@ -1,0 +1,22 @@
+body {
+  background-color: #2D3047;
+  color: #fff;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.logo {
+  max-width: 100%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+h1 {
+  color: #2D3047;
+}
+
+.subtitle {
+  font-size: 1.5em;
+  font-weight: bold;
+}
